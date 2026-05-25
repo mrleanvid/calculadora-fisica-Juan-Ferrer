@@ -1,7 +1,7 @@
 # ⚗️ Calculadora de Magnitudes Físicas
 
 ## 👤 Nombre Completo
-**Nombre Completo del Estudiante**
+Juan José Ferrer Rey
 
 ---
 
