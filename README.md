@@ -54,18 +54,9 @@ calculadora-fisica-nombre-apellido/
 
 ## 🚀 Instrucciones para Ejecutar
 
-### Método 1: Apertura directa (más sencillo)
-1. Descarga o clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/calculadora-fisica-nombre-apellido.git
-   ```
-2. Navega a la carpeta del proyecto:
-   ```bash
-   cd calculadora-fisica-nombre-apellido
-   ```
-3. Abre el archivo `index.html` directamente en tu navegador web preferido (Chrome, Firefox, Edge, etc.)
+### Método 1: Copiar link y abrir en un navegador.
 
-> ⚠️ **No requiere instalación de dependencias ni servidor backend.**
+link: https://mrleanvid.github.io/calculadora-fisica-Juan-Ferrer/
 
 ### Método 2: Con servidor local (recomendado)
 
@@ -75,20 +66,7 @@ calculadora-fisica-nombre-apellido/
 3. Haz clic derecho sobre `index.html` → **Open with Live Server**
 4. La aplicación se abrirá en `http://127.0.0.1:5500`
 
-**Usando Python:**
-```bash
-# Python 3
-python -m http.server 8080
-# Abre: http://localhost:8080
-```
 
-**Usando Node.js:**
-```bash
-npx serve .
-# Abre la URL que indique la terminal
-```
-
----
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -121,7 +99,7 @@ npx serve .
 - **Programa:** Ingeniería de Software
 - **Materia:** Construcción de Algoritmos
 - **Actividad:** Evaluativa #3 — Calculadora de Magnitudes Físicas
-- **Fecha límite:** Jueves 22 de mayo, 22:00 hrs
+- **Fecha límite:** ----
 
 ---
 
